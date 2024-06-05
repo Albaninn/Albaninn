@@ -3,7 +3,7 @@
 
 <P>
 Sou estudante de Sistemas de Informação, atualmente no quinto (5°) ano do curso. 
-Minha jornada acadêmica tem sido enriquecida com experiências em linguagens programação listadas abaixo, todas as nivel academica básica e aplicados em design patterns como Factory Method, Injeção de dependência, Abstract Factory, Observer e conceitos do S.O.L.I.D.
+Minha jornada acadêmica tem sido enriquecida com experiências em linguagens programação listadas abaixo, todas em nivel academica básica a intermediario.
 </P>
 
 </br>
@@ -13,7 +13,6 @@ Minha jornada acadêmica tem sido enriquecida com experiências em linguagens pr
 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
-<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" />
