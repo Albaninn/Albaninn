@@ -2,7 +2,7 @@
 ## Bem vindo ao meu perfil GitHub
 
 <P>
-Sou estudante de Sistemas de Informação, atualmente no quinto (5°) ano do curso. 
+Sou estudante de Sistemas de Informação, atualmente no quinto (6°) período do curso. 
 Minha jornada acadêmica tem sido enriquecida com experiências em linguagens programação listadas abaixo, todas em nivel academica básica a intermediario.
 </P>
 
