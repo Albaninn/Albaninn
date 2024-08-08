@@ -3,7 +3,7 @@
 
 <P>
 Sou estudante de Sistemas de Informação, atualmente no quinto (6°) período do curso. 
-Minha jornada acadêmica tem sido enriquecida com experiências em linguagens programação listadas abaixo, todas em nivel academica básica a intermediario.
+Minha jornada acadêmica tem sido enriquecida com experiências em linguagens programação listadas abaixo, usadas com mais ou menos frequencia porém todas importantes para minha jornada.
 </P>
 
 </br>
@@ -21,7 +21,6 @@ Minha jornada acadêmica tem sido enriquecida com experiências em linguagens pr
 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />          
 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original-wordmark.svg" />
-<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" />
 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
 </div>          
 
@@ -38,13 +37,3 @@ Minha jornada acadêmica tem sido enriquecida com experiências em linguagens pr
   <a href="https://www.linkedin.com/in/lucas-albano-345306200/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
-
-
-
-##
-<p align="center">
-<a href="https://github.com/Albaninn">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Albaninn&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Albaninn&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
