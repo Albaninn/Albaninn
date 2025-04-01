@@ -8,8 +8,6 @@
 Sou estudante de Sistemas de Informação, atualmente no sétimo (7°) período do curso.  
 Minha jornada acadêmica tem sido enriquecida com experiências em linguagens de programação listadas abaixo, usadas com mais ou menos frequência, porém todas importantes para minha jornada.
 
-📫 Você pode falar comigo pelos canais abaixo e conhecer meus projetos já desenvolvidos, que estão disponíveis aqui nos repositórios.
-
 </td>
     <td>
 
@@ -18,8 +16,6 @@ Minha jornada acadêmica tem sido enriquecida com experiências em linguagens de
 
 I'm an Information Systems student, currently in the seventh (7th) semester of the course.  
 My academic journey has been enriched with experience in the programming languages listed below, used with varying frequency, but all important to my development.
-
-📫 You can reach me through the channels below and check out my completed projects, available here in the repositories.
 
 </td>
   </tr>
@@ -40,6 +36,23 @@ My academic journey has been enriched with experience in the programming languag
     <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-004B5E?style=for-the-badge&logo=mysql&logoColor=white" />
     <img align="center" alt="react" src="https://img.shields.io/badge/react-0D0627?style=for-the-badge&logo=react&logoColor=48CEF7" />
 </div>
+
+</br>
+
+<table>
+  <tr>
+    <td>
+
+📫 Você pode falar comigo pelos canais abaixo e conhecer meus projetos já desenvolvidos, que estão disponíveis aqui nos repositórios.
+
+</td>
+    <td>
+
+📫 You can reach me through the channels below and check out my completed projects, available here in the repositories.
+
+</td>
+  </tr>
+</table>
 
 </br>
 
