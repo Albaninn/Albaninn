@@ -1,31 +1,33 @@
-# Olá, me chamo Lucas Albano
-## Bem vindo ao meu perfil GitHub
+<table>
+  <tr>
+    <td>
 
-<P>
-Sou estudante de Sistemas de Informação, atualmente no sétimo (7°) período do curso. 
-Minha jornada acadêmica tem sido enriquecida com experiências em linguagens programação listadas abaixo, usadas com mais ou menos frequencia porém todas importantes para minha jornada.
-</P>
+### 👋 Olá, me chamo Lucas Albano  
+#### 👨‍💻 Bem-vindo ao meu perfil GitHub  
+
+Sou estudante de Sistemas de Informação, atualmente no sétimo (7°) período do curso.  
+Minha jornada acadêmica tem sido enriquecida com experiências em linguagens de programação listadas abaixo, usadas com mais ou menos frequência, porém todas importantes para minha jornada.
+
+📫 Você pode falar comigo pelos canais abaixo e conhecer meus projetos já desenvolvidos, que estão disponíveis aqui nos repositórios.
+
+</td>
+    <td>
+
+### 👋 Hello, my name is Lucas Albano  
+#### 👨‍💻 Welcome to my GitHub profile  
+
+I'm an Information Systems student, currently in the seventh (7th) semester of the course.  
+My academic journey has been enriched with experience in the programming languages listed below, used with varying frequency, but all important to my development.
+
+📫 You can reach me through the channels below and check out my completed projects, available here in the repositories.
+
+</td>
+  </tr>
+</table>
 
 </br>
-</br>
-<!--
-<div display="flex">
-<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
-<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" />
-<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
-<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />          
-<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
-<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original-wordmark.svg" />
-<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
-</div>          
--->
 
-<div style="display: flex">
+<div style="display: flex; flex-wrap: wrap; gap: 5px;">
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
     <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -37,17 +39,12 @@ Minha jornada acadêmica tem sido enriquecida com experiências em linguagens pr
     <img align="center" alt="next" src="https://img.shields.io/badge/Next.js-01F75C?style=for-the-badge&logo=next.js&logoColor=black" />
     <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-004B5E?style=for-the-badge&logo=mysql&logoColor=white" />
     <img align="center" alt="react" src="https://img.shields.io/badge/react-0D0627?style=for-the-badge&logo=react&logoColor=48CEF7" />
-  </div>
-</br>
-
-
-📫 Você pode falar comigo pelos canais abaixo e pode conhecer meus projetos já desenvolvidos, que estão disponíveis aqui nos repositórios.
+</div>
 
 </br>
+
 <div> 
- 
- <a href="https://discord.gg/lukinhas_humilde" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:lukalbanorb@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/lucas-albano-345306200/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+  <a href="https://discord.gg/lukinhas_humilde" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a> 
+  <a href = "mailto:lukalbanorb@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/lucas-albano-345306200/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 </div>
