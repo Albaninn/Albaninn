@@ -5,7 +5,7 @@
 ## 👋 Olá, me chamo Lucas Albano  
 ### 👨‍💻 Bem-vindo ao meu perfil GitHub  
 
-Sou estudante de **Sistemas de Informação**, atualmente no **7º período** do curso.  
+Sou estudante de **Sistemas de Informação**, atualmente no **8º período** do curso.  
 Minha jornada acadêmica tem sido enriquecida com experiências em linguagens de programação listadas abaixo — usadas com mais ou menos frequência, porém todas importantes para minha trajetória.
 
 </td>
