@@ -14,7 +14,7 @@ Minha jornada acadêmica tem sido enriquecida com experiências em linguagens de
 ## 👋 Hello, my name is Lucas Albano  
 ### 👨‍💻 Welcome to my GitHub profile  
 
-I'm an **Information Systems** student, currently in the **7th semester** of the course.  
+I'm an **Information Systems** student, currently in the **8th semester** of the course.  
 My academic journey has been enriched with experience in the programming languages listed below — used with varying frequency, but all essential to my development.
 
 </td>
