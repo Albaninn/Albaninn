@@ -5,8 +5,8 @@
 ## 👋 Olá, me chamo Lucas Albano  
 ### 👨‍💻 Bem-vindo ao meu perfil GitHub  
 
-Sou estudante de **Sistemas de Informação**, atualmente no **8º período** do curso.  
-Minha jornada acadêmica tem sido enriquecida com experiências em linguagens de programação listadas abaixo — usadas com mais ou menos frequência, porém todas importantes para minha trajetória.
+Sou graduado em **Sistemas de Informação**, tendo concluído o curso no final de 2025.  
+Minha trajetória foi construída com experiências práticas nas linguagens de programação listadas abaixo — ferramentas que utilizo para criar soluções e que foram fundamentais para o meu desenvolvimento profissional.
 
 </td>
     <td>
@@ -14,8 +14,8 @@ Minha jornada acadêmica tem sido enriquecida com experiências em linguagens de
 ## 👋 Hello, my name is Lucas Albano  
 ### 👨‍💻 Welcome to my GitHub profile  
 
-I'm an **Information Systems** student, currently in the **8th semester** of the course.  
-My academic journey has been enriched with experience in the programming languages listed below — used with varying frequency, but all essential to my development.
+I hold a degree in **Information Systems**, having graduated in late 2025.  
+My journey has been built on practical experience with the programming languages listed below — tools I use to build solutions and that were essential to my professional development.
 
 </td>
   </tr>
