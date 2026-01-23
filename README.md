@@ -83,3 +83,9 @@ Let's connect! You can check out my projects in the repositories above or reach 
   <a href = "mailto:lukalbanorb@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/lucas-albano-345306200/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 </p>
+
+<div align="center">
+  <a href="https://github.com/Albaninn/Albaninn/blob/main/CURRICULO.md">
+    <img src="https://img.shields.io/badge/Ver%20Curr%C3%ADculo%20Completo-238636?style=for-the-badge&logo=readme&logoColor=white" alt="Ver Currículo"/>
+  </a>
+</div>
