@@ -89,7 +89,7 @@ Let's connect! You can check out my projects in the repositories above or reach 
     <img src="https://img.shields.io/badge/Ver%20Curr%C3%ADculo%20(PT)--BR-238636?style=for-the-badge&logo=readme&logoColor=white" alt="Ver Currículo em Português"/>
   </a>
   &nbsp;
-  <a href="https://github.com/Albaninn/Albaninn/blob/main/summary.md">
+  <a href="https://github.com/Albaninn/Albaninn/blob/main/SUMMARY.md">
     <img src="https://img.shields.io/badge/English%20Resume-1F6FEB?style=for-the-badge&logo=readme&logoColor=white" alt="View English Resume"/>
   </a>
 </div>
